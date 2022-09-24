@@ -1,0 +1,15 @@
+.container{
+    border: 1px solid black;
+}
+#jumbotron-full{
+    background: url(Photo4.avif);
+    /* background-size: cover; */
+}
+#jumbotron-full-2{
+    background:url(Photo2.avif);
+    background-size: cover;
+}
+#example-jumbo{
+    background:url(Photo4.avif);
+    background-size: cover;
+}

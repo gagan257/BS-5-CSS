@@ -1,0 +1,19 @@
+.container{
+    border: 1px solid black;
+}
+.nav{
+    background-color:cyan;
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover,.nav-link.active{
+    background-color: blue;
+    color: #000;
+}
+body{
+    background-color: goldenrod;
+}
+.display-5{
+    color: #fff;
+}
